@@ -60,11 +60,6 @@ Among all models, **Random Forest** performed the best with higher accuracy and 
 
 ---
 
-## 📂 Project Files
-- `Capstone_Project.ipynb` → Complete notebook  
-- `dataset.csv` → Dataset used  
-- `model.joblib` → Saved trained model  
-
 ---
 
 ## 🚀 Future Scope
